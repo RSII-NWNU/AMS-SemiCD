@@ -1,0 +1,4 @@
+[2025-04-25 15:17:20,520][data_loader_new.py][line:303][INFO] 训练数据集 5.0% 包含标签!
+[2025-04-25 15:17:20,520][data_loader_new.py][line:304][INFO] 总标签数:7120, 356 含标签!
+[2025-04-25 15:17:20,542][data_loader_new.py][line:477][INFO] 生成监督文件列表：../data/LEVIR-CD-256/list/5_train_supervised.txt（356 样本）
+[2025-04-25 15:17:20,543][data_loader_new.py][line:478][INFO] 生成无监督文件列表：../data/LEVIR-CD-256/list/5_train_unsupervised.txt（6764 样本）
