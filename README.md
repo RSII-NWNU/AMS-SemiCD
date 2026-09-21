@@ -255,7 +255,7 @@ If you use this code or the AMS-SemiCD method, please cite the paper:
 @article{zhang2026amssemicd,
   title   = {AMS-SemiCD: A Synergistic Framework for Semi-Supervised Change Detection via an Adaptive Pseudo-Labeling Strategy and a Multi-Branch Network},
   author  = {Di Zhang and Peicheng Yue and Huifang Ma and Zhanjun Hao and Xin He and Yun Liu and Jiaqi Zhao},
-  journal = {IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
+  journal = {IEEE Transactions on Geoscience & Remote Sensing},
   year    = {2026}
 }
 ```
